@@ -1,4 +1,4 @@
-# REACT CODE SAMPLES FOR SEAN
+# REACT CODE SAMPLES
 
 ## next.js-react-typescript-hooks/incident-overview.tsx
 Code samples I've recently built with Next.js, React.js, Typescript, and Hooks
